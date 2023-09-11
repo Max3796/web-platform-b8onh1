@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oswald:wght@200;400;600&family=Poppins:wght@300;400&family=Roboto&family=Rubik+Iso&display=swap');
+
+body{
+    background-image: url("https://media.istockphoto.com/id/1301187096/vector/blue-background-with-lines-of-scratches-from-hockey-skates-on-ice-hockey-field-covering.jpg?s=612x612&w=0&k=20&c=308CClg4A08woWEys2KEVv0Kyl3RkPzWYJZO8Jg5p_s="); 
+    
+    font-family: 'Poppins', sans-serif;
+     
+}
+/* element selector*/
+h1{
+    font-size: medium;
+    text-align: center;
+    text-decoration: underline;
+}
+/* element selector*/
+h4{
+    font-size: small;
+    justify-content: center;
+    margin: 100px;
+    
+
+}
+/* class selector*/
+.var img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin:0 50px;
+    border-radius: 20px;
+}
+/* ID selector*/
+#guitar{
+    width: 300px;
+    
+    margin: 20px ;
+    
+}
